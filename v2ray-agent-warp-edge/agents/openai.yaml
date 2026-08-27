@@ -1,0 +1,4 @@
+interface:
+  display_name: "v2ray-agent WARP Edge"
+  short_description: "Stage WS, REALITY, Hysteria2, and WARP routes"
+  default_prompt: "Use $v2ray-agent-warp-edge to deploy and verify the staged proxy routes on my VPS."
